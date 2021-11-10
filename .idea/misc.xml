@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/AndroidProjects/ProyectoBase/app/src/main/res/drawable/gradient_background.xml" value="0.24375" />
+        <entry key="..\:/AndroidProjects/ProyectoBase/app/src/main/res/layout/activity_clases.xml" value="0.264" />
         <entry key="..\:/AndroidProjects/ProyectoBase/app/src/main/res/layout/activity_home.xml" value="0.264" />
         <entry key="..\:/AndroidProjects/ProyectoBase/app/src/main/res/layout/activity_info.xml" value="0.264" />
         <entry key="..\:/AndroidProjects/ProyectoBase/app/src/main/res/layout/activity_insumos.xml" value="0.264" />
